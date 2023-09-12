@@ -1,0 +1,17 @@
+{
+    "name": "dadandev/ipdetector",
+    "description": "Untuk ngedeteksi IP Pengguna",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DadanDev\\IPDetector\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dadan Hidayat",
+            "email": "dadanhidyt@gmail.com"
+        }
+    ],
+    "require": {}
+}
